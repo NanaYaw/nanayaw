@@ -6,9 +6,10 @@
 - Opensource lover
 
 
+<!--
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanaYaw&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/NanaYaw/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanaYaw&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)
+-->
 ## Skills and Experience:
 <p>
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat" />
