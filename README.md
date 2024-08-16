@@ -1,9 +1,9 @@
 ## Hi, I'm Augustine 👋
 
-- Ruby and Ruby on Rails developer 
+- Software Developer
+- Ruby and Ruby on Rails 
 - 🌱 I’m learning Python, React Native and TypeScript.
 - 💬 Ask me anything about full-stack web development.
-- Opensource lover
 
 
 <!--
